@@ -1,1 +1,4 @@
 aws-interview.csv
+node_modules/
+public/components
+.sass-cache
